@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İbrahim Halil doğan</h1>
-<h3 align="center">A passionate Jr Full Stack developer from Turkey</h3>
+<h3 align="center">A Backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Js.react**
 
